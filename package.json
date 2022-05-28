@@ -1,0 +1,15 @@
+{
+  "name": "focus",
+  "version": "1.0.0",
+  "description": "aysi hackathon ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amith Yedavalli",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.7.0",
+    "mongodb": "^4.6.0"
+  }
+}
